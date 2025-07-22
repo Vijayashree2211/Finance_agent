@@ -1,0 +1,10 @@
+Flask
+Flask-RESTX
+Flask-Cors
+SQLAlchemy
+psycopg2-binary
+langchain
+yfinance
+openai
+PyPDF2
+streamlit
