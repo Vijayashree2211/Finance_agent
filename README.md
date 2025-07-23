@@ -5,13 +5,7 @@ Finance_agent is a Python-based application that provides personalized financial
 ## Libraries Used
 
 - **Flask**: For building RESTful APIs.
-- **Flask-RESTx**: For API documentation and structure.
-- **Flask-CORS**: To handle Cross-Origin Resource Sharing.
-- **Streamlit**: For building the interactive web UI.
-- **Plotly**: For data visualization (pie charts, etc.).
-- **SQLAlchemy**: For database modeling and ORM.
+-  **Streamlit**: For building the interactive web UI.
 - **yfinance**: To fetch stock market data.
-- **requests**: To make HTTP requests to external APIs (including Perplexity AI).
-- **python-dotenv**: For managing environment variables.
 - **langchain**: For building language model-powered workflows and financial reasoning.
 - **Perplexity API**: For intelligent recommendations and insights.
