@@ -46,6 +46,3 @@
 - **Model Used:** `openai/gpt-oss-20b:free` via **OpenRouter** API.  
 - **About GPT-OSS-20B:** GPT-OSS-20B is a large open-source AI model that can understand questions and generate human-like answers. In this app, it helps explain financial terms, stock indicators, and trading concepts in simple language.
 
-
-
-)
